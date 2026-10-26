@@ -1,0 +1,13 @@
+mcp>=2.3
+anthropic>=1.12
+python-dotenv>=1.0
+mss>=10.0
+pillow>=11.0
+pyautogui>=0.9.54
+pynput>=1.8
+playwright>=1.55
+prompt_toolkit>=3.0
+rich>=13.0
+# for the agent's own data scripts (CSV / Excel)
+pandas>=2.2
+openpyxl>=3.1
